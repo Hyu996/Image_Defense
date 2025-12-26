@@ -1,8 +1,9 @@
 # Image Defense Tool
 > 請先確認這是你要的功能再來做，畢竟有點麻煩
 
-## 🔗 目錄 / Table of Contents / 目次
 [Guidelines.PDF](Image_Defense_Tool_guidelines.pdf)
+
+## 🔗 目錄 / Table of Contents / 目次
 - [中文](#中文)
   - [前言](#前言)
   - [功用與目的](#功用與目的)
