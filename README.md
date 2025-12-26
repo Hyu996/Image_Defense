@@ -11,7 +11,7 @@
   - [License](#license)
   - [Contact / Issues](#contact--issues)
 - [日本語版 README](READMEJP.md)
-- [English](READMEEN.md)
+- [English README](READMEEN.md)
 
 ---
 ## 中文
