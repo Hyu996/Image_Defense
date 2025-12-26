@@ -1,4 +1,4 @@
-# Image Defense Tool（日本語版）
+# Image Defense Tool（日本語版 GhatGPT 生成）
 > このツールの機能を理解した上で使用してください。少し手間がかかります。
 
 ## 🔗 目次
