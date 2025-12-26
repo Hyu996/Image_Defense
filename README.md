@@ -11,7 +11,7 @@
   - [License](#license)
   - [Contact / Issues](#contact--issues)
 - [日本語版 README](READMEJP.md)
-- [English](#english)
+- [English](READMEEN.md)
 
 ---
 ## 中文
@@ -129,7 +129,7 @@ IMG/
 - 禁止用於 AI 模型訓練
 - 由本工具產生之輸出內容，仍受本授權限制
 
-📄詳細內容請參閱 `LICENSE.txt`
+📄詳細內容請參閱 ["License"](LICENSE.txt)
 
 ---
 
