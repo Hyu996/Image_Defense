@@ -10,7 +10,7 @@
   - [部署方式](#部署方式簡述)
   - [License](#license)
   - [Contact / Issues](#contact--issues)
-- [日本語](#日本語)
+- [日本語版 README](READMEJP.md)
 - [English](#english)
 
 ---
