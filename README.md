@@ -92,7 +92,7 @@ Image Defense Tool.exe
 最終產生的展示頁資料夾結構如下：  
 IMG/  
 ├─ index.html # 圖片展示主頁  
-├─ image.bat # 圖片本圖
+├─ image.bat # 圖片本圖  
 ├─ og_preview.jpg # 社群分享預覽圖  
 ├─ viewer.js # 圖片顯示與互動邏輯  
 └─ style.css # 網站樣式  
